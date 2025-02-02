@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EasyBank accounts related QA APIs"
+  contactDetails:
+    name: "Veena - QA Lead"
+    email: "veena@gmail.com"
+  onCallSupport:
+    -(666)666-1234
+    -(666)647-1345

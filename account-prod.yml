@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EasyBank accounts related PROD APIs"
+  contactDetails:
+    name: "Samanvi - Product Owner"
+    email: "samanvi@gmail.com"
+  onCallSupport:
+    -(888)888-1234
+    -(999)947-1345
